@@ -1,0 +1,58 @@
+{
+    "image_id": "87",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "ADAM",
+            "MI": "F",
+            "Last Name": "ZURKEY",
+            "Social Security Number": "879-07-1461",
+            "Address": "32730 WALKER RD",
+            "City": "AVON LAKE",
+            "State": "AZ",
+            "Zip": "44012",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9636",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire": "03/24/2023",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "04/05/1989",
+            "Age": "34",
+            "Product Selection": "Medical"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "DERWOOD",
+            "MI": " ",
+            "Last Name": "ZURKEY",
+            "Relationship to You": "Adopted",
+            "Social Security Number": "",
+            "Gender": "Male",
+            "Date of Birth": "07/17/1996",
+            "Age": "27",
+            "Product Selection": "Medical",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

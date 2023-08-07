@@ -1,0 +1,58 @@
+{
+    "image_id": "90",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "WALMART",
+            "Group Number": "28108199",
+            "Payroll Location": "2810-2023",
+            "First Name": "ANDREW",
+            "MI": "A",
+            "Last Name": "BALDWIN",
+            "Social Security Number": "114-91-3731",
+            "Address": "100 N 37TH ST",
+            "City": "NORFOLK",
+            "State": "CO",
+            "Zip": "68701",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9639",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire": "01/21/2022",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1987",
+            "Age": "36",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "BRADLEY",
+            "MI": "",
+            "Last Name": "BALDWIN",
+            "Relationship to You": "Adopted",
+            "Social Security Number": "",
+            "Gender": "Male",
+            "Date of Birth": "05/27/1999",
+            "Age": "24",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

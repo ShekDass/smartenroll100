@@ -1,0 +1,58 @@
+{
+    "image_id": "92",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "TARGET",
+            "Group Number": "48208181",
+            "Payroll Location": " ",
+            "First Name": "CHAD",
+            "MI": "C",
+            "Last Name": "STEPHENS",
+            "Social Security Number": "457-30-6881",
+            "Address": "3120 W SOUTHLAKE BLVD",
+            "City": "SOUTHLAKE",
+            "State": "SD",
+            "Zip": "76092",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9625",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire": "01/17/2022",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "10/12/1970",
+            "Age": "53",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "SAMANTHA",
+            "MI": "",
+            "Last Name": "STEPHENS",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "775-78-5749",
+            "Gender": "Female",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "GLEN",
+            "MI": "",
+            "Last Name": "STEPHENS",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "Male",
+            "Date of Birth": "04/22/2000",
+            "Age": "23",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": ""
+        }
+    ]
+}

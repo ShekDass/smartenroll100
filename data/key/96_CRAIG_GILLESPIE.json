@@ -1,0 +1,58 @@
+{
+    "image_id": "96",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "MCDONALD'S CORPORATION",
+            "Group Number": "32081881",
+            "Payroll Location": " ",
+            "First Name": "CRAIG",
+            "MI": "E",
+            "Last Name": "GILLESPIE",
+            "Social Security Number": "114-91-3731",
+            "Address": "1525 WEBSTER ST",
+            "City": "FAIRFIELD",
+            "State": "OH",
+            "Zip": "94533",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9619",
+            "Marital Status": "Married",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire": "03/25/2023",
+            "Hours Worked Per Week": "",
+            "Gender": "Male",
+            "Date of Birth": "09/21/1954",
+            "Age": "69",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "NIHARIKA",
+            "MI": "",
+            "Last Name": "GILLESPIE",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "457-30-6881",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1965",
+            "Age": "58",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "BOBBY",
+            "MI": " ",
+            "Last Name": "GILLESPIE",
+            "Relationship to You": "Child",
+            "Social Security Number": " ",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1999",
+            "Age": "24",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": " "
+        }
+    ]
+}

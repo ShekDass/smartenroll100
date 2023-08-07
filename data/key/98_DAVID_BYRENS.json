@@ -1,0 +1,58 @@
+{
+    "image_id": "98",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "FEDEX",
+            "Group Number": "32492082",
+            "Payroll Location": " ",
+            "First Name": "DAVID",
+            "MI": "A",
+            "Last Name": "BYRENS",
+            "Social Security Number": "457-30-6881",
+            "Address": "215 E MANSION ST",
+            "City": "MARSHALL",
+            "State": "NM",
+            "Zip": "49068",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9615",
+            "Marital Status": "Single/Widowed",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire": "06/11/2022",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "01/01/1958",
+            "Age": "65",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "",
+            "MI": "",
+            "Last Name": "",
+            "Relationship to You": "",
+            "Social Security Number": "",
+            "Gender": "",
+            "Date of Birth": "",
+            "Age": "",
+            "Product Selection": ""
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "KEVIN",
+            "MI": " ",
+            "Last Name": "BYRENS",
+            "Relationship to You": "Adopted",
+            "Social Security Number": " ",
+            "Gender": "Male",
+            "Date of Birth": "05/05/1995",
+            "Age": "28",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": " "
+        }
+    ]
+}

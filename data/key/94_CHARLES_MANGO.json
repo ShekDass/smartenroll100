@@ -1,0 +1,58 @@
+{
+    "image_id": "94",
+    "insurancecompany": "HIGHMARK",
+    "formheader": "ENROLLMENT/WAIVER FORM",
+    "I EMPLOYEE/CONTRACT HOLDER INFORMATION": [
+        {
+            "Effective Date": "05/01/2023",
+            "Employer/Group Name": "HOME DEPOT",
+            "Group Number": "32333819",
+            "Payroll Location": "3233-2023",
+            "First Name": "CHARLES",
+            "MI": "H",
+            "Last Name": "MANGO",
+            "Social Security Number": "757-78-5749",
+            "Address": "915 PALMER RD",
+            "City": "BRONXVILLE",
+            "State": "CA",
+            "Zip": "10708",
+            "County": " ",
+            "Home/Cell Phone": "765-239-9638",
+            "Marital Status": "Divorced",
+            "Enrollment Status": "Active Employee",
+            "Full-Time Hire": "01/24/2023",
+            "Hours Worked Per Week": " ",
+            "Gender": "Male",
+            "Date of Birth": "08/12/1974",
+            "Age": "49",
+            "Product Selection": "Dental"
+        }
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "First Name": "ELIZABETH",
+            "MI": " ",
+            "Last Name": "MANGO",
+            "Relationship to You": "Spouse",
+            "Social Security Number": "840-13-1844",
+            "Gender": "Female",
+            "Date of Birth": "01/01/1983",
+            "Age": "40",
+            "Product Selection": "Dental"
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "First Name": "AMY",
+            "MI": " ",
+            "Last Name": "MANGO",
+            "Relationship to You": "Child",
+            "Social Security Number": " ",
+            "Gender": "Female",
+            "Date of Birth": "09/18/1995",
+            "Age": "28",
+            "Product Selection": "Dental",
+            "Dependent Status if Age 26 or Older": " "
+        }
+    ]
+}
